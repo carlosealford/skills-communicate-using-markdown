@@ -10,3 +10,7 @@
 # any of this sinking in?
 [ 1 -eq 1 ] && echo "Let it be" || echo "Make it happen"
 ```
+## List of tasks
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
